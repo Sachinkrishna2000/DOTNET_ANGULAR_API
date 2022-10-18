@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DOTNET_ANGULAR_API", "DOTNET_ANGULAR_API.csproj", "{ACD38B56-46EC-4763-A20A-F07256116BFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACD38B56-46EC-4763-A20A-F07256116BFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACD38B56-46EC-4763-A20A-F07256116BFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACD38B56-46EC-4763-A20A-F07256116BFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACD38B56-46EC-4763-A20A-F07256116BFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B22705A-7E05-4A99-A13E-EB2820698D72}
+	EndGlobalSection
+EndGlobal
